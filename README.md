@@ -1,6 +1,6 @@
 # varunkvk2
 ## Power BI project
-### • Sales Performance
+### Sales Performance
 • Provide a clear and concise explanation of the visual, highlighting key insights and findings.
 • Create a dashboard Monthly, Yearly, And Citywise sales performance.
 • Provide a clear and concise explanation of the visual, highlighting key insights and findings. • Create a dashboard Monthly, Yearly, And Citywise sales performance.
